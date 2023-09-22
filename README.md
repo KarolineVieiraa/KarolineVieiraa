@@ -1,5 +1,4 @@
-## Oiii eu sou a Karoline Vieira, uma estudante de engenharia entusiasta no mundo dev!
-
+## Oiii eu sou a Karol, uma estudante de Eng. Computação entusiasta no mundo dev!
 <div style="display: inline_block"><br>
   <img align="center" alt="Karol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Karol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
