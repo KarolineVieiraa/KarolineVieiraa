@@ -7,7 +7,7 @@
   <img align="center" alt="Karol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Karol-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Karol-pic" height="200" style="border-radius:50px;" 
-  src="https://user-images.githubusercontent.com/93507586/145398974-babc7628-60ff-4155-ac4c-5a3c31842bee.png"
+  src="https://static.wikia.nocookie.net/all-worlds-alliance/images/c/c2/Coraline-transparent-2.png/revision/latest?cb=20200317021354">
 </div>
   
   ##
